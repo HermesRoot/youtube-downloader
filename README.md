@@ -1,7 +1,6 @@
 # YouTube Downloader 🎬
 
-Um aplicativo em Python para baixar vídeos e playlists do YouTube através de uma interface gráfica (GUI) desenvolvida com Tkinter.  
-Ideal para quem deseja uma solução prática e eficiente para salvar seus vídeos favoritos.
+Um aplicativo em Python para baixar vídeos e playlists do YouTube através de uma interface gráfica (GUI) desenvolvida com Tkinter. Ideal para quem deseja uma solução prática e eficiente para salvar seus vídeos favoritos.
 
 ## 🖥️ Captura de Tela
 ![Screenshot do HashCheck](https://raw.githubusercontent.com/HermesRoot/youtube-downloader/main/screenshot.jpg
