@@ -46,7 +46,7 @@ Um aplicativo em Python para baixar vídeos e playlists do YouTube através de u
 1. Execute o programa:
 
   ```bash
-  python src/youtube-downloader.py
+  python youtube-downloader.py
   ```
 
 2. Na interface:
